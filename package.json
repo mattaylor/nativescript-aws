@@ -1,0 +1,32 @@
+{
+  "name": "nativescript-aws",
+  "version": "1.0.0",
+  "description": "Native script wrapper around common AWS IOS and Android SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattaylor/nativescript-aws.git"
+  },
+  "keywords": [
+    "nativescript",
+    "typescript",
+    "aws",
+    "cognito",
+    "kinesis",
+    "iam",
+    "s3",
+    "sync"
+  ],
+  "author": "Mat Taylor <mat.taylor@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattaylor/nativescript-aws/issues"
+  },
+  "homepage": "https://github.com/mattaylor/nativescript-aws#readme",
+  "dependencies": {
+    "aws-sdk": "^2.2.10"
+  }
+}
